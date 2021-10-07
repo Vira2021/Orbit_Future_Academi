@@ -1,0 +1,76 @@
+Country,Age,Salary,Purchased
+India,34,92000,Yes
+Sri lanka,22,89700,Yes
+China,31,74000,Yes
+Sri lanka,29,78900,Yes
+China,55,98000,Yes
+India,24,56790,Yes
+Sri lanka,28,90790,Yes
+India,50,60000,Yes
+China,51,89000,Yes
+India,44,78000,Yes
+Sri lanka,21,98000,Yes
+China,25,98087,Yes
+India,33,45000,Yes
+India,42,65000,Yes
+Sri lanka,33,22000,Yes
+India,34,92000,Yes
+Sri lanka,22,25000,Yes
+China,31,74000,Yes
+Sri lanka,29,78900,No
+India,50,60000,No
+China,51,89000,Yes
+India,44,78000,Yes
+Sri lanka,21,87099,Yes
+China,25,30000,Yes
+India,33,45000,Yes
+India,42,65000,Yes
+Sri lanka,33,22000,Yes
+Sri lanka,29,78900,Yes
+Jawa barat,34,92000,Yes
+Jawa Tengah,22,90700,Yes
+Jawa Timur,31,74000,Yes
+Bekasi,29,78900,Yes
+Australia,55,98000,Yes
+Singapura,24,54000,Yes
+Medan,28,98000,Yes
+Makasar,50,60000,Yes
+Arab saudi,51,89000,Yes
+Bahama,44,78000,Yes
+Austria,21,56900,Yes
+Barbandos,25,89070,Yes
+Belanda,33,97800,Yes
+Brasil,42,65000,Yes
+Korea,33,98609,No
+Belgia ,34,92000,Yes
+Belise,22,96900,Yes
+Bulgaria,31,74000,Yes
+Ceko,29,78900,Yes
+Chili,50,60000,Yes
+Ekuador,51,89000,Yes
+Filipina ,44,78000,Yes
+Finlandia,21,87000,No
+Fiji ,25,67800,Yes
+Gambia,33,90800,Yes
+Grenada,42,65000,Yes
+Gana,33,98070,Yes
+Guinea,29,78900,No
+Hauiti,50,98708,Yes
+Hungaria,56,67890,Yes
+Indonesia,36,56789,Yes
+Irlan ,65,45678,Yes
+Irlandia,45,34690,Yes
+Israel,54,98754,Yes
+Italia,52,87543,Yes
+Jamaika,52,34567,Yes
+Jepang,53,24590,Yes
+Kanada,28,98706,Yes
+Kamerun,39,76548,Yes
+Kamboja,51,98743,Yes
+Kenya,54,97324,Yes
+Kiribati,53,56784,No
+Komoro,56,89065,Yes
+Kosta,46,54329,No
+Kroasia Kuba,65,54321,Yes
+Lebanon,45,45670,No
+Lesoto,49,76549,No
